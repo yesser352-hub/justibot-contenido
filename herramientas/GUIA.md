@@ -35,5 +35,7 @@ cd /home/claude/justibot-contenido/herramientas && npm install --silent
 
 ## Tablero de pendientes
 URL: https://claude.ai/artifact/L82r9TG3Lbd3yghzpQaH2C (ArtifactData; colecciones `posts` y `tasks`).
-- `posts`: {date "AAAA-MM-DD", time, title, format, status "borrador"|"programada"}. Agrega las piezas nuevas con status "borrador". Puedes borrar las de hace más de 3 semanas.
+- Carol revisa y APRUEBA desde el tablero: el botón "Aprobar y programar" cambia los borradores de Metricool a programados. Por eso cada pieza necesita su vista previa y los uuid de Metricool.
+- Vistas previas: haz versiones livianas (videos `ffmpeg -vf scale=540:-2 -crf 28`, láminas JPG 540x675), primero lee el artefacto con la herramienta Artifact (`action: "read"`, url de arriba) y luego súbelas con Artifact `action: "publish"`, `url`, `asset: true`, `file_paths`. Guarda los `id` que devuelve.
+- `posts` (un documento por pieza, id libre): {date "AAAA-MM-DD", time "12:15 p. m.", title, format, uuids: [uuid de CADA publicación de Metricool de esa pieza, incluida la de Facebook y la de TikTok aparte], preview: {kind "video"|"images", ids: [ids de assets]}, caption: texto de Instagram}. Puedes borrar las de hace más de 3 semanas (y sus assets con `delete`).
 - `tasks`: {title, note, area contenido|embajadoras|ventas|producto|web|otros, col tuyo|claude|espera|hecho, order}. Agrega en `tuyo` una tarjeta "Revisar y aprobar las piezas de la semana del …". Lee siempre antes de escribir y usa if_version.
