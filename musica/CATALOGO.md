@@ -19,3 +19,5 @@ Regla: no repetir la misma canción en dos piezas seguidas.
 - 2026-10 Doctora, ¿cómo va mi proceso? → bluelike_u-7-sunshine-pop-rock-instrumental
 - 2026-10 Demo JustiBot → velariomusic-lofi-calm
 - 2026-10 Rutina 7 a. m. → audio original de Carol
+- 2026-10 TikTok Glosario → zephiramusic-lofi-reel
+- 2026-10 TikTok Vacancia → zephiramusic-lofi-christmas
