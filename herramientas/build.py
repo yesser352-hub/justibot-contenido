@@ -107,6 +107,15 @@ def render_reel(b, name, scenes, fps=30):
     tmp = OUT / f"_{name}"; shutil.rmtree(tmp, ignore_errors=True); tmp.mkdir(parents=True)
     pg = b.new_page(viewport={"width":1080,"height":1920})
     n=0
+    # Portada: los primeros fotogramas muestran la primera escena ya completa,
+    # para que Instagram, TikTok y Facebook no tomen un cuadro vacío como portada.
+    dur0, html0 = scenes[0]
+    hf = tmp / "scene.html"; hf.write_text(HEAD.replace("var(--w)","1080px").replace("var(--h)","1920px")+html0+f"<script>{ANIM_JS}</script></body></html>")
+    pg.goto(hf.as_uri()); pg.wait_for_load_state("networkidle"); pg.evaluate("document.fonts.ready"); pg.wait_for_timeout(300)
+    pg.evaluate(f"setT({max(2500, dur0-200)})")
+    pg.screenshot(path=str(tmp/"cover.png"), type="png")
+    for _ in range(3):
+        shutil.copy(tmp/"cover.png", tmp/f"f{n:05d}.png"); n+=1
     for dur, html in scenes:
         hf = tmp / "scene.html"; hf.write_text(HEAD.replace("var(--w)","1080px").replace("var(--h)","1920px")+html+f"<script>{ANIM_JS}</script></body></html>")
         pg.goto(hf.as_uri()); pg.wait_for_load_state("networkidle"); pg.evaluate("document.fonts.ready"); pg.wait_for_timeout(300)

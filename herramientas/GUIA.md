@@ -28,6 +28,8 @@ cd /home/claude/justibot-contenido/herramientas && npm install --silent
   1. Instagram + TikTok: texto termina en "Pruébalo gratis 👉 enlace en el perfil".
   2. Facebook sola: el mismo texto pero con "Pruébalo gratis 👉 https://www.justibot.com.co/".
 - Carruseles: Instagram (POST con las PNG) y Facebook (POST) como carrusel; para TikTok, publicación aparte solo TikTok con el video de `slideshow.py` + música.
+- Reels: la PORTADA es el primer fotograma. render_reel ya pone la primera escena completa al inicio; si usas un video de Carol u otro, agrega al inicio un fotograma con el título visible (nunca un fondo vacío).
+- Publica también sábado y domingo: el calendario semanal debe cubrir de lunes a domingo (fines de semana con piezas ligeras: humor, fechas, tips).
 - Reels: con música de la biblioteca; Instagram REEL, Facebook REEL, TikTok con `tiktokData.title` obligatorio.
 - Medios: sube los archivos a este repo en `AAAA-MM/...`, haz push y usa la URL raw fijada al commit: `https://raw.githubusercontent.com/yesser352-hub/justibot-contenido/<sha>/<ruta>`.
 - Crea todo con `draft: true` (Carol revisa y aprueba). Horarios que funcionan: 12:15 y 18:30; 7:00 para piezas de "mañana".

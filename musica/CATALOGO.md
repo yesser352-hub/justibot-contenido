@@ -21,3 +21,5 @@ Regla: no repetir la misma canción en dos piezas seguidas.
 - 2026-10 Rutina 7 a. m. → audio original de Carol
 - 2026-10 TikTok Glosario → zephiramusic-lofi-reel
 - 2026-10 TikTok Vacancia → zephiramusic-lofi-christmas
+- 2026-10-31 Halloween del litigante → bluelike_u-4-magic-keys-cute-bgm
+- 2026-11-01 Mañana es festivo → yourtunes-minimal-corporate
