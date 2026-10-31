@@ -43,3 +43,11 @@ URL: https://claude.ai/artifact/L82r9TG3Lbd3yghzpQaH2C (ArtifactData; coleccione
 - Cambios pedidos: Carol puede tocar "Pedir cambio" en una publicación. Eso guarda `change` en el documento de `posts` y crea en `tasks` (col "claude") una tarjeta con `postId`. Cada domingo, ANTES de crear piezas nuevas, atiende esos cambios si la publicación aún no ha salido: rehaz la pieza, reemplaza el medio y el texto en Metricool (updateScheduledPost, dejándola en borrador), sube la nueva vista previa, actualiza el `posts` (borra `change` con {"__delete__": true}) y mueve la tarjeta a "hecho". Cuéntalo en el resumen.
 - `leads` (prospectos) y `ambassadors` (embajadoras) también viven aquí; no los cambies salvo que la tarea lo pida.
 - `tasks`: {title, note, due "AAAA-MM-DD" opcional, area contenido|embajadoras|ventas|producto|web|otros, col tuyo|claude|espera|hecho, order}. Agrega en `tuyo` una tarjeta "Revisar y aprobar las piezas de la semana del …". Lee siempre antes de escribir y usa if_version.
+
+## Historias de Instagram (2 o 3 por semana)
+- Formato 1080x1920, mismo estilo de marca. Deja libre una franja de unos 400 px en la parte baja (y 250 px arriba) para que Carol ponga el sticker de enlace o de encuesta.
+- Tipos que rotan: (1) encuesta o pregunta a la comunidad ("¿Cuántos procesos llevas?", "¿Qué portal te saca más canas?"), con el texto "Responde aquí 👇" encima del espacio libre; (2) dato o fecha del calendario judicial de esa semana; (3) recordatorio de la publicación más fuerte de la semana ("Nuevo Reel 👉").
+- Renderízalas como PNG con shot_slides cambiando el alto a 1920 (o con page() en un viewport 1080x1920). Súbelas al repo en AAAA-MM/historias/.
+- No van a Metricool: los stickers de enlace y encuesta solo se ponen a mano en la app. Súbelas como assets al tablero y crea en `posts` un documento por historia con format "Historia · súbela tú", uuids [] y en caption qué sticker poner (por ejemplo: "Sticker de encuesta: Menos de 50 / Más de 50" o "Sticker de enlace: https://www.justibot.com.co/").
+- Agrega en `tasks` (col "tuyo", area "contenido", due = el día de la primera) una tarjeta "Subir las historias de la semana" que diga qué día va cada una.
+- Recuérdale a Carol en el resumen: cada publicación nueva se comparte en historias el mismo día con el sticker de enlace.
