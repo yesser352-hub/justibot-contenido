@@ -23,3 +23,8 @@ Regla: no repetir la misma canción en dos piezas seguidas.
 - 2026-10 TikTok Vacancia → zephiramusic-lofi-christmas
 - 2026-10-31 Halloween del litigante → bluelike_u-4-magic-keys-cute-bgm
 - 2026-11-01 Mañana es festivo → yourtunes-minimal-corporate
+- 2026-11-02 El litigante descansando en festivo → ikoliks-children-ukulele-upbeat-positive-pop-rock
+- 2026-11-05 TikTok ¿Desde cuándo corre tu término? → yourtunes-motivational-corporate
+- 2026-11-06 Tutorial: calcula un término → velariomusic-lofi-relax
+- 2026-11-07 Este o ese, versión litigante → vaitsez-vlog-vlog-beat
+- 2026-11-08 Domingo 6:30 p. m. → kontraa-water-afro-pop-music
