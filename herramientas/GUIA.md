@@ -35,6 +35,13 @@ cd /home/claude/justibot-contenido/herramientas && npm install --silent
 - Crea todo con `draft: true` (Carol revisa y aprueba). Horarios que funcionan: 12:15 y 18:30; 7:00 para piezas de "mañana".
 - 4 a 8 hashtags: #abogadoscolombia #litigio #ramajudicial #derechocolombia #justibot + 1 o 2 del tema.
 
+## YouTube Shorts (canal conectado en Metricool)
+- Cada Reel de la semana va también como Short: publicación aparte solo YouTube (provider "youtube"), el mismo video, a las 6:00 p. m. (domingos 6:30 p. m.), un Short por día.
+- youtubeData: {"title": "<título corto> #Shorts" (máx. 100 caracteres), "type": "short", "privacy": "public", "madeForKids": false, "category": "EDUCATION" (humor: "COMEDY"), "tags": [4 o 5 palabras clave]}. Sin videoThumbnailUrl.
+- Texto: el caption de Facebook (con https://www.justibot.com.co/) y hashtags empezando por #Shorts.
+- Intercala los videos animados del robot (los de más enganche) con los demás formatos. Si en la semana hay pocos Reels nuevos, completa los días con Reels anteriores que no hayan salido en YouTube (no los de fechas ya pasadas como festivos o Halloween).
+- Agrega el uuid del Short al documento de `posts` de esa pieza.
+
 ## Tablero de pendientes
 URL: https://claude.ai/artifact/L82r9TG3Lbd3yghzpQaH2C (ArtifactData; colecciones `posts` y `tasks`).
 - Carol revisa y APRUEBA desde el tablero: el botón "Aprobar y programar" cambia los borradores de Metricool a programados. Por eso cada pieza necesita su vista previa y los uuid de Metricool.
