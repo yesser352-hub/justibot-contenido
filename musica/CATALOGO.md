@@ -28,3 +28,8 @@ Regla: no repetir la misma canción en dos piezas seguidas.
 - 2026-11-06 Tutorial: calcula un término → velariomusic-lofi-relax
 - 2026-11-07 Este o ese, versión litigante → vaitsez-vlog-vlog-beat
 - 2026-11-08 Domingo 6:30 p. m. → kontraa-water-afro-pop-music
+- 2026-11-09 ¿Puedes litigar contra un excliente? → yourtunes-the-corporate-motivation
+- 2026-11-10 TikTok Notificación por correo (Ley 2213) → apalonbeats-lofi-lofi-music-2
+- 2026-11-11 Lo que le dices al cliente vs. lo que pasa → bluelike_u-3-switch-up-anime-instrumental-theme-song-free
+- 2026-11-13 Tipos de litigante revisando procesos → audioknap-the-hip-hop
+- 2026-11-14 Reto: ¿cuándo vence? → yourtunes-upbeat-inspiring-technology-corporate-motivational
