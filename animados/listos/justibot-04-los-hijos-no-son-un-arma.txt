@@ -1,0 +1,25 @@
+JustiBot 04 | Los hijos no son un arma
+Video vertical 1080x1920, 60,9 s, voz es-CO Gonzalo, subtítulos incrustados.
+
+DE QUÉ CASO TRATA
+La Corte Suprema de Justicia (Sala de Casación Civil, Agraria y Rural) estudió el caso de dos niñas
+que durante más de un año casi no pudieron ver ni llamar a su madre, pese a que el ICBF había ordenado
+llamadas diarias y visitas supervisadas. La Corte explicó que obstruir de forma reiterada y sin
+justificación el vínculo de un hijo con su madre o su padre puede ser maltrato y, por tanto, violencia
+intrafamiliar (debe probarse con hechos; no es cualquier desacuerdo entre padres).
+- Amparó los derechos de las niñas y ordenó al Juzgado de Familia decidir de nuevo. No definió la custodia.
+- Negó la tutela del padre contra las sanciones por incumplir medidas de protección: los arrestos de
+  30 y 45 días ya estaban impuestos y se mantuvieron (no los impuso la Corte).
+Identidad de las menores protegida: no se nombran ni se muestran.
+
+FUENTES
+- Sentencia STC13455-2026, Corte Suprema de Justicia, Sala de Casación Civil, Agraria y Rural, 22 de julio de 2026.
+- https://www.vanguardia.com/colombia/2026/08/18/impedir-que-un-hijo-vea-a-su-padre-o-madre-es-violencia-esto-dijo-la-corte-suprema/
+- https://www.vanguardia.com/colombia/2026/10/13/sus-hijos-no-son-armas-para-vengarse-del-exconyuge/
+- https://www.elheraldo.co/sociedad/2026/08/21/corte-suprema-reconoce-la-obstruccion-parental-como-una-forma-de-maltrato-infantil-y-violencia-intrafamiliar/
+- https://www.infobae.com/colombia/2026/10/08/obstruir-el-vinculo-entre-un-hijo-y-uno-de-sus-padres-puede-constituir-violencia-intrafamiliar-por-maltrato-esto-determino-la-corte-suprema/
+
+ARCHIVOS
+- justibot-04-los-hijos-no-son-un-arma.mp4  (video final)
+- justibot-04-los-hijos-no-son-un-arma.jpg  (portada vertical, sin subtítulos)
+Proyecto para volver a renderizar: repositorio Justibot, rama videos/short-04-hijos, carpeta videos/ (LEEME-video-04.md).
