@@ -42,6 +42,15 @@ cd /home/claude/justibot-contenido/herramientas && npm install --silent
 - Intercala los videos animados del robot (los de más enganche) con los demás formatos. Si en la semana hay pocos Reels nuevos, completa los días con Reels anteriores que no hayan salido en YouTube (no los de fechas ya pasadas como festivos o Halloween).
 - Agrega el uuid del Short al documento de `posts` de esa pieza.
 
+## Videos animados del robot (carpeta `animados/listos/`)
+- Carol los genera en otra sesión de Claude y los sube aquí: cada video .mp4 con un .txt del mismo nombre (caso, fuentes) y su portada .jpg. Son el formato con más enganche.
+- Cada domingo, ANTES de armar el resto, revisa `animados/listos/`. Por cada video:
+  1. Verifica el caso con búsqueda web (número de sentencia, fecha, sala, cifras). Si algo del video no coincide con las fuentes, NO lo programes: crea una tarjeta en `tasks` (col "tuyo") explicando qué corregir.
+  2. Si el primer fotograma no tiene texto, antepón la portada (0,15 s, audio con retraso de 150 ms) como en las otras piezas.
+  3. Prográmalo (borrador) en Instagram + TikTok y Facebook a las 6:30 p. m., y como Short de YouTube al día siguiente. Caption con el caso, la sentencia y "no todo es X" si aplica; nunca inventes datos que no estén en las fuentes.
+  4. Muévelo a `animados/publicados/` (git mv) y haz push.
+- Meta: 2 videos animados por semana (por ejemplo martes y viernes), intercalados con los demás formatos. Si hay más de 2, deja el resto para la semana siguiente.
+
 ## Tablero de pendientes
 URL: https://claude.ai/artifact/L82r9TG3Lbd3yghzpQaH2C (ArtifactData; colecciones `posts` y `tasks`).
 - Carol revisa y APRUEBA desde el tablero: el botón "Aprobar y programar" cambia los borradores de Metricool a programados. Por eso cada pieza necesita su vista previa y los uuid de Metricool.
