@@ -1,0 +1,27 @@
+JustiBot 05 | Su cuerpo no es tema de burla
+Video vertical 1080x1920, 63,6 s, voz es-CO, subtítulos incrustados.
+
+DE QUÉ CASO TRATA
+La Corte Constitucional (Sala Cuarta de Revisión) estudió el caso de una gestora social que, desde 2025,
+fue objeto en Facebook de montajes y burlas de un creador de contenido sobre su cuerpo, supuestas cirugías
+y vida privada. La Corte explicó que esos mensajes la cosificaban y descalificaban como mujer: eso es
+violencia de género digital. Criticar su gestión pública, en cambio, sí está protegido por la libertad de expresión.
+- Ordenó al creador retirar las publicaciones en 48 horas, publicar una disculpa en sus cuentas y hacer
+  un curso sobre igualdad de género.
+- No hubo multa ni cárcel: fue una tutela, no un juicio penal. No le prohibió volver a mencionarla
+  (sería censura previa). No es regla automática: cada caso se mira con sus pruebas.
+Identidad protegida: no se nombra a la gestora ni al creador; no se reproducen las publicaciones.
+
+FUENTES
+- Sentencia T-348 de 2026, Corte Constitucional, Sala Cuarta de Revisión (M.P. Juan Carlos Cortés González), 27 de octubre de 2026.
+- https://www.corteconstitucional.gov.co/relatoria/2026/t-348-26.htm
+- https://www.eltiempo.com/justicia/cortes/corte-constitucional-frena-ataques-sexistas-contra-las-mujeres-en-redes-sociales-3599650
+- https://www.infobae.com/colombia/2026/11/10/ataques-contra-mujeres-en-redes-sociales-por-su-apariencia-es-violencia-de-genero-aseguro-la-corte-constitucional-tras-tutela-de-gestora-social-agredida-en-facebook-bisturi-camaras-accion/
+- https://cronicadelquindio.com/actualidad/colombia/corte-protege-a-gestora-social-de-violencia-de-genero-digital-en-facebook/
+- https://impactotic.co/gobierno/politicas-tic/violencia-de-genero-digital-colombia/
+
+ARCHIVOS
+- justibot-05-burlas-en-redes.mp4  (video final)
+- justibot-05-burlas-en-redes.jpg  (portada vertical, sin subtítulos)
+Proyecto para volver a renderizar: repositorio Justibot, rama videos/short-05-burlas-en-redes, carpeta videos/ (LEEME-video-05.md, guiones/05-burlas-en-redes.md, composición RedesShort).
+Render final hecho en el PC de Carol desde la rama videos/shorts-05-07-nube (con ajustes locales de subtítulos/cues aún sin commit al 13-nov-2026).
