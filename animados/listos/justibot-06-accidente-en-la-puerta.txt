@@ -1,0 +1,26 @@
+JustiBot 06 | Esperar para entrar también es trabajar
+Video vertical 1080x1920, 63,3 s, voz es-CO, subtítulos incrustados.
+
+DE QUÉ CASO TRATA
+La Corte Suprema de Justicia (Sala de Casación Laboral) estudió el caso de un obrero que llegó temprano
+a una obra y, momentos antes de entrar, murió al desprenderse una cornisa. El juzgado condenó a la ARL a
+pagar la pensión de sobrevivientes; el Tribunal revocó por considerarlo accidente común (fue afuera y antes
+del horario). La Corte explicó que llegar a tiempo y esperar para entrar hacen parte del trabajo, y que en
+riesgos laborales la responsabilidad es objetiva: no hay que probar la culpa del empleador.
+- Casó la sentencia del Tribunal y protegió la pensión de sobrevivientes de la viuda y las dos hijas.
+- Advirtió que los trámites administrativos de la ARL no pueden impedir el acceso a la pensión.
+- No dijo que todo accidente antes del turno sea laboral: se mira el vínculo con el trabajo en cada caso.
+Sin recrear a la víctima. No se mencionan la ciudad ni la ARL (solo una fuente los da).
+
+FUENTES
+- Sentencia SL852-2026, Corte Suprema de Justicia, Sala de Casación Laboral (M.P. Iván Mauricio Lenis Gómez); comunicado y prensa del 16 al 20 de octubre de 2026.
+- https://cortesuprema.gov.co/sala-de-casacion-laboral-preciso-que-accidente-a-las-afueras-del-lugar-de-trabajo-y-momentos-antes-de-ingresar-al-sitio-de-labores-si-es-un-accidente-de-trabajo/
+- https://www.ambitojuridico.com/noticias/laboral/accidente-las-afueras-del-trabajo-momentos-antes-de-ingresar-es-de-caracter
+- https://www.vanguardia.com/economia/2026/10/20/se-accidento-antes-de-entrar-al-trabajo-la-corte-suprema-aclaro-cuando-responde-la-arl/
+- https://www.lafm.com.co/sociedad/accidente-antes-entrar-trabajo-puede-ser-laboral-corte-suprema-414220
+
+ARCHIVOS
+- justibot-06-accidente-en-la-puerta.mp4  (video final)
+- justibot-06-accidente-en-la-puerta.jpg  (portada vertical, sin subtítulos)
+Proyecto para volver a renderizar: repositorio Justibot, rama videos/short-06-accidente-en-la-puerta, carpeta videos/ (LEEME-video-06.md, guiones/06-accidente-en-la-puerta.md, composición AccidenteShort).
+Render final hecho en el PC de Carol desde la rama videos/shorts-05-07-nube (con ajustes locales de subtítulos/cues aún sin commit al 13-nov-2026).
