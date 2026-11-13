@@ -1,0 +1,24 @@
+JustiBot 07 | Vuelve el período de prueba de los aprendices
+Video vertical 1080x1920, 60,7 s, voz es-CO, subtítulos incrustados.
+
+DE QUÉ CASO TRATA
+El Decreto 223 de 2026 prohibió de forma absoluta pactar período de prueba en los contratos de aprendizaje
+(como los de los aprendices del SENA). El Consejo de Estado suspendió provisionalmente esa prohibición:
+el Gobierno excedió su facultad reglamentaria, porque la ley manda aplicar el Código Sustantivo del Trabajo.
+- Empresa y aprendiz pueden volver a pactar período de prueba, por escrito y con los límites de ley
+  (máximo 2 meses; en contratos de menos de un año, máximo la quinta parte del plazo).
+- No anuló el decreto: es una medida cautelar provisional mientras se decide el fondo de la demanda.
+No se citan radicado ni ponente en pantalla (solo una fuente los da). La providencia oficial no fue accesible.
+
+FUENTES
+- Auto de suspensión provisional del Consejo de Estado sobre el Decreto 223 de 2026; prensa del 26 de octubre y 10 de noviembre de 2026.
+- https://www.semana.com/nacion/articulo/aprendices-del-sena-consejo-de-estado-suspende-decreto-que-prohibio-el-periodo-de-prueba/202636/
+- https://www.asuntoslegales.com.co/actualidad/consejo-de-estado-suspendio-norma-que-prohibia-el-periodo-de-prueba-en-contratos-de-aprendizaje-4521875
+- https://www.eluniversal.com.co/colombia/2026/11/10/suspenden-norma-que-elimino-el-periodo-de-prueba-en-contratos-de-aprendizaje-del-sena/
+- https://ifmnoticias.com/educacion/aprendices-del-sena-podran-volver-a-tener-periodo-de-prueba-el-consejo-de-estado/
+
+ARCHIVOS
+- justibot-07-periodo-de-prueba-aprendices.mp4  (video final)
+- justibot-07-periodo-de-prueba-aprendices.jpg  (portada vertical, sin subtítulos)
+Proyecto para volver a renderizar: repositorio Justibot, rama videos/short-07-periodo-de-prueba-aprendices, carpeta videos/ (LEEME-video-07.md, guiones/07-periodo-de-prueba-aprendices.md, composición AprendicesShort).
+Render final hecho en el PC de Carol desde la rama videos/shorts-05-07-nube (con ajustes locales de subtítulos/cues aún sin commit al 13-nov-2026).
