@@ -40,30 +40,28 @@ cd /home/claude/justibot-contenido/herramientas && npm install --silent
 - youtubeData: {"title": "<título corto> #Shorts" (máx. 100 caracteres), "type": "short", "privacy": "public", "madeForKids": false, "category": "EDUCATION" (humor: "COMEDY"), "tags": [4 o 5 palabras clave]}. Sin videoThumbnailUrl.
 - Texto: el caption de Facebook (con https://www.justibot.com.co/) y hashtags empezando por #Shorts.
 - Intercala los videos animados del robot (los de más enganche) con los demás formatos. Si en la semana hay pocos Reels nuevos, completa los días con Reels anteriores que no hayan salido en YouTube (no los de fechas ya pasadas como festivos o Halloween).
-- Agrega el uuid del Short al documento de `posts` de esa pieza.
+- Agrega el uuid del Short al documento de `piezas` de esa pieza.
 
 ## Videos animados del robot (carpeta `animados/listos/`)
 - Carol los genera en otra sesión de Claude y los sube aquí: cada video .mp4 con un .txt del mismo nombre (caso, fuentes) y su portada .jpg. Son el formato con más enganche.
 - Cada domingo, ANTES de armar el resto, revisa `animados/listos/`. Por cada video:
-  1. Verifica el caso con búsqueda web (número de sentencia, fecha, sala, cifras). Si algo del video no coincide con las fuentes, NO lo programes: crea una tarjeta en `tasks` (col "tuyo") explicando qué corregir.
+  1. Verifica el caso con búsqueda web (número de sentencia, fecha, sala, cifras). Si algo del video no coincide con las fuentes, NO lo programes: déjalo en el Centro de mando con estado "Te necesita" en el agente y explícale a Carol qué corregir.
   2. Si el primer fotograma no tiene texto, antepón la portada (0,15 s, audio con retraso de 150 ms) como en las otras piezas.
   3. Prográmalo (borrador) en Instagram + TikTok y Facebook a las 6:30 p. m., y como Short de YouTube al día siguiente. Caption con el caso, la sentencia y "no todo es X" si aplica; nunca inventes datos que no estén en las fuentes.
   4. Muévelo a `animados/publicados/` (git mv) y haz push.
 - Meta: 2 videos animados por semana (por ejemplo martes y viernes), intercalados con los demás formatos. Si hay más de 2, deja el resto para la semana siguiente.
 
-## Tablero de pendientes
-URL: https://claude.ai/artifact/L82r9TG3Lbd3yghzpQaH2C (ArtifactData; colecciones `posts` y `tasks`).
-- Carol revisa y APRUEBA desde el tablero: el botón "Aprobar y programar" cambia los borradores de Metricool a programados. Por eso cada pieza necesita su vista previa y los uuid de Metricool.
-- Vistas previas: haz versiones livianas (videos `ffmpeg -vf scale=540:-2 -crf 28`, láminas JPG 540x675), primero lee el artefacto con la herramienta Artifact (`action: "read"`, url de arriba) y luego súbelas con Artifact `action: "publish"`, `url`, `asset: true`, `file_paths`. Guarda los `id` que devuelve.
-- `posts` (un documento por pieza, id libre): {date "AAAA-MM-DD", time "12:15 p. m.", title, format, uuids: [uuid de CADA publicación de Metricool de esa pieza, incluida la de Facebook y la de TikTok aparte], preview: {kind "video"|"images", ids: [ids de assets]}, caption: texto de Instagram}. Puedes borrar las de hace más de 3 semanas (y sus assets con `delete`).
-- Cambios pedidos: Carol puede tocar "Pedir cambio" en una publicación. Eso guarda `change` en el documento de `posts` y crea en `tasks` (col "claude") una tarjeta con `postId`. Cada domingo, ANTES de crear piezas nuevas, atiende esos cambios si la publicación aún no ha salido: rehaz la pieza, reemplaza el medio y el texto en Metricool (updateScheduledPost, dejándola en borrador), sube la nueva vista previa, actualiza el `posts` (borra `change` con {"__delete__": true}) y mueve la tarjeta a "hecho". Cuéntalo en el resumen.
-- `leads` (prospectos) y `ambassadors` (embajadoras) también viven aquí; no los cambies salvo que la tarea lo pida.
-- `tasks`: {title, note, due "AAAA-MM-DD" opcional, area contenido|embajadoras|ventas|producto|web|otros, col tuyo|claude|espera|hecho, order}. Agrega en `tuyo` una tarjeta "Revisar y aprobar las piezas de la semana del …". Lee siempre antes de escribir y usa if_version.
+## Centro de mando (reemplaza al tablero viejo)
+Todo lo de aprobar, ideas, estados de agentes y aprendizajes vive en el Centro de mando:
+https://claude.ai/artifact/NwSo9EKAAJEQm9ZyRW6SFH. Esquema de datos, estados y cómo subir vistas previas: `centro-de-mando.md`.
+- Cada pieza nueva: documento en `piezas` con su vista previa, uuids de Metricool y `estado: "por aprobar"`.
+- Carol aprueba ahí; la revisión diaria del community manager programa lo aprobado que no se haya programado solo.
+- El tablero viejo (L82r9TG3Lbd3yghzpQaH2C) ya no se actualiza.
 
 ## Historias de Instagram (2 o 3 por semana)
 - Formato 1080x1920, mismo estilo de marca. Deja libre una franja de unos 400 px en la parte baja (y 250 px arriba) para que Carol ponga el sticker de enlace o de encuesta.
 - Tipos que rotan: (1) encuesta o pregunta a la comunidad ("¿Cuántos procesos llevas?", "¿Qué portal te saca más canas?"), con el texto "Responde aquí 👇" encima del espacio libre; (2) dato o fecha del calendario judicial de esa semana; (3) recordatorio de la publicación más fuerte de la semana ("Nuevo Reel 👉").
 - Renderízalas como PNG con shot_slides cambiando el alto a 1920 (o con page() en un viewport 1080x1920). Súbelas al repo en AAAA-MM/historias/.
-- No van a Metricool: los stickers de enlace y encuesta solo se ponen a mano en la app. Súbelas como assets al tablero y crea en `posts` un documento por historia con format "Historia · súbela tú", uuids [] y en caption qué sticker poner (por ejemplo: "Sticker de encuesta: Menos de 50 / Más de 50" o "Sticker de enlace: https://www.justibot.com.co/").
-- Agrega en `tasks` (col "tuyo", area "contenido", due = el día de la primera) una tarjeta "Subir las historias de la semana" que diga qué día va cada una.
+- No van a Metricool: los stickers de enlace y encuesta solo se ponen a mano en la app. Súbelas como assets al Centro de mando y crea en `piezas` un documento por historia con format "Historia · súbela tú", uuids [] y en caption qué sticker poner (por ejemplo: "Sticker de encuesta: Menos de 50 / Más de 50" o "Sticker de enlace: https://www.justibot.com.co/").
+- En el resumen a Carol di qué día va cada historia.
 - Recuérdale a Carol en el resumen: cada publicación nueva se comparte en historias el mismo día con el sticker de enlace.

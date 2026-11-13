@@ -6,6 +6,13 @@ Separa siempre lo **comprobado con números** de lo que es **impresión o hipót
 
 ## Comprobado (con datos)
 
+- 2026-11-13 · TikTok, 1 al 13-nov (Metricool, vistas por video): «¿Un abogado puede perder su tarjeta profesional?»
+  (robot 01) lleva 2.959 vistas; las otras 13 piezas del periodo, entre 84 y 216. Los robots 03 (216) y 04 (197) están
+  en la parte alta del resto. → 2 videos del robot por semana y probar ganchos con consecuencia concreta.
+- 2026-11-13 · Instagram y Facebook (Metricool, evolución diaria): los días de más alcance fueron el 31-oct (Halloween:
+  1.126 personas en IG, 5.763 vistas en FB) y el 1-nov (festivo: 990 en IG, 2.173 en FB). → Preparar con tiempo las
+  fechas del calendario judicial (vacancia desde el 20-dic, festivos).
+
 - 2026-11-06 a 08: el plan gratis de Metricool (20 publicaciones al mes) se agotó y 7 publicaciones no
   salieron. Desde el 9-nov hay plan de pago. Ya se reprogramaron.
 - El botón "Aprobar" del tablero viejo falló varias veces (formato de datos y lectura de Metricool).
