@@ -22,12 +22,16 @@ tarea programada o agente que trabaje en contenido de JustiBot empieza leyendo e
 
 | Agente | Cuándo | Lee | Escribe | Ficha |
 |---|---|---|---|---|
-| Investigador | Lunes 7:4x a. m. | `aprendizajes.md`, `publicado/`, `ideas/banco-estrategia.md` | `ideas/AAAA-MM-DD.md` | `agentes/investigador.md` |
-| Guionista y verificador | Al elegir ideas (martes) | `ideas/`, `marca.md` | `guiones/` | `agentes/guionista.md` |
-| Productor de video | Viernes, en el PC de Carol | `guiones/` aprobados | `animados/listos/` | `agentes/productor-video.md` |
-| Diseñador | Martes a jueves y domingo | `guiones/`, `marca.md`, `herramientas/` | `AAAA-MM/`, `piezas/` | `agentes/disenador.md` |
-| Community manager | Domingo + revisión diaria de aprobaciones | `piezas/`, `animados/listos/` | Metricool (borradores), `publicado/` | `agentes/community-manager.md` |
-| Analista | Lunes y último día del mes | Metricool | `aprendizajes.md`, `planes/` | `agentes/analista.md` |
+| Investigador | Lunes 7:41 a. m. (después del analista) | `aprendizajes.md`, `publicado/`, `ideas/banco-estrategia.md` | `ideas/AAAA-MM-DD.md` | `agentes/investigador.md` |
+| Guionista y verificador | Martes 7:23 a. m. (ideas elegidas) | `ideas/`, `marca.md` | `guiones/` | `agentes/guionista.md` |
+| Productor de video | Viernes 8:27 a. m.: prepara el código; Carol corre el comando en su PC | `guiones/` aprobados | `animados/listos/` | `agentes/productor-video.md` |
+| Diseñador | Jueves 7:17 a. m. (y el domingo si faltan piezas) | `guiones/`, `marca.md`, `herramientas/` | `AAAA-MM/`, `piezas/` | `agentes/disenador.md` |
+| Community manager | Domingo 8:35 a. m. + revisión diaria 8:43 a. m. | `piezas/`, `animados/listos/` | Metricool (borradores), `publicado/` | `agentes/community-manager.md` |
+| Analista | Lunes 7:41 a. m. y día 26 de cada mes 7:53 a. m. | Metricool | `aprendizajes.md`, `planes/` | `agentes/analista.md` |
+
+Tareas programadas (hora de Bogotá): «JustiBot · Lunes: analista e investigador», «JustiBot · Martes: guionista y verificador»,
+«JustiBot · Jueves: diseñador», «JustiBot · Viernes: productor de video», «JustiBot · Domingo: community manager arma la semana»,
+«JustiBot · Diario: aplicar aprobaciones», «JustiBot · Fin de mes: analista y plan del mes siguiente».
 
 ## Mapa del repositorio
 

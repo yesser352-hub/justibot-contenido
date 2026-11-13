@@ -8,7 +8,7 @@
 - Proyecto Remotion: repo `yesser352-hub/Justibot`, carpeta `videos/` (en el PC: `C:\Users\carol\Justibot\videos`).
   Lee `videos/README.md`, `videos/COMO-HACER-UN-VIDEO-NUEVO.md` (copia en `agentes/referencia-como-hacer-un-video.md`)
   y el LEEME del último video. El video 07 (`src/aprendices/`, `voice7/`, `audio7/`) es la plantilla más reciente.
-- Comando único: `bash producir-video.sh NN` desde `videos/` (ver abajo). Hace voz, sonido, render, unión,
+- Comando único: `bash producir-video.sh NN` (si la rama base aún no lo tiene, cópialo con `videos.conf` desde `herramientas/video/` de este repo) desde `videos/` (ver abajo). Hace voz, sonido, render, unión,
   portada y revisión de calidad, y deja todo en `videos/out/`.
 
 ## Pasos por video

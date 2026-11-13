@@ -398,10 +398,10 @@ function renderFunnel(){const box=$("#funnel");box.replaceChildren();const c=K&&
 function netStates(p){const out=[];for(const u of p.uuids||[]){const m=mcPosts.get(String(u));if(!m)continue;
   for(const pr of m.providers||[]){const st=String(pr.status||"").toUpperCase();out.push({net:pr.network,uuid:String(u),st:st==="PUBLISHED"?"pub":(st==="ERROR"||st==="FAILED")?"err":m.draft?"draft":"sched"})}}return out}
 function porAprobar(){return S.piezas.filter(p=>p.estado==="por aprobar"||p.estado==="guion por aprobar"||(p.fecha>=today&&!p.aprobado&&netStates(p).some(s=>s.st==="draft")))}
-function visibles(){const keep=["guion por aprobar","por aprobar","aprobado","listo para programar","programado","diseñada","en producción","guion aprobado"];
+function visibles(){const keep=["guion por aprobar","por aprobar","aprobado","listo para programar","programado","diseñada","en producción","guion aprobado","súbela tú"];
   return S.piezas.filter(p=>keep.includes(p.estado)&&(!p.fecha||p.fecha>=addDays(today,-1)))
    .sort((a,b)=>(porAprobar().includes(b)-porAprobar().includes(a))||String(a.fecha||"9").localeCompare(String(b.fecha||"9")))}
-const ECHIP={"por aprobar":"wait","guion por aprobar":"wait","aprobado":"ok","listo para programar":"ok","programado":"ok","diseñada":"work","en producción":"work","guion aprobado":"work"};
+const ECHIP={"súbela tú":"wait","por aprobar":"wait","guion por aprobar":"wait","aprobado":"ok","listo para programar":"ok","programado":"ok","diseñada":"work","en producción":"work","guion aprobado":"work"};
 const msgs={};
 function renderPiezas(){const box=$("#piezas");box.replaceChildren();const list=visibles();
   $("#nAprobar").textContent=porAprobar().length||"";
