@@ -33,3 +33,8 @@ Regla: no repetir la misma canción en dos piezas seguidas.
 - 2026-11-11 Lo que le dices al cliente vs. lo que pasa → bluelike_u-3-switch-up-anime-instrumental-theme-song-free
 - 2026-11-13 Tipos de litigante revisando procesos → audioknap-the-hip-hop
 - 2026-11-14 Reto: ¿cuándo vence? → yourtunes-upbeat-inspiring-technology-corporate-motivational
+- 2026-11-16 Los 23 dígitos (reto) → bluelike_u-7-sunshine-pop-rock-instrumental
+- 2026-11-18 El Excel heredado → bluelike_u-4-magic-keys-cute-bgm
+- 2026-11-19 El correo más aburrido → grumpynora-lay-back
+- 2026-11-21 Doctor F5 → vaitsez-vlog-vlog-beat
+- 2026-11-22 Tú sabes quién (colega de las 6 a. m.) → kontraa-water-afro-pop-music
