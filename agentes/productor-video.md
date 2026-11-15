@@ -25,9 +25,21 @@
    recomprime CRF 20-22), `.jpg` (portada) y `.txt` (caso, fuentes y rama, como `justibot-04-…txt`). Commit y push.
    Actualiza la pieza en el Centro de mando a `listo para programar`.
 
+## JUSTIBOT AL DÍA (2 por semana)
+
+- Código fijo en la rama `videos/aldia` de Justibot (nunca main): estudio, presentadores, robot, sintonía y mezcla ya
+  están hechos. Cada episodio es **solo** `videos/src/aldia/episodios/ADNN/episodio.json` (lo escribe el guionista).
+- Pasos: copiar el `episodio.json` aprobado a la rama, `python voice-aldia/indice.py`, commit y push a `videos/aldia`.
+  En el PC: `cd ~/Justibot && git fetch && git checkout videos/aldia && git pull && cd videos && bash producir-video.sh ADNN`.
+- Sale en `videos/out/listos/justibot-aldia-ADNN.mp4/.jpg/.srt`. Revisar que el texto de las pantallas no se corte
+  (titular ≤ 70 letras, cita de la norma ≤ 80) y que la duración esté entre 45 y 90 s.
+- Aprobado por Carol: a `animados/listos/` como `justibot-aldia-ADNN-slug.mp4/.jpg/.txt`.
+- Guía completa: `videos/LEEME-aldia.md` en la rama.
+
 ## Cómo se ejecuta desde una sesión de Claude
 
-- Con el PC conectado (herramientas `device_*`): corre el comando en el PC con `device_bash`, lee resultados con
+- Con el PC conectado (herramientas `device_*`): corre el comando en el PC con `device_bash` (en segundo plano con
+  `nohup ... > log 2>&1 &`, porque cada llamada corta a los 45 s, y revisa el log), lee resultados con
   `device_stage_files` y sube los aprobados a GitHub desde la nube (el PC no puede hacer push desde la sesión).
 - Si el PC no está conectado: deja el código del video en su rama y pídele a Carol que corra en Git Bash:
   `cd ~/Justibot && git fetch && git checkout videos/short-NN-slug && cd videos && bash producir-video.sh NN`.

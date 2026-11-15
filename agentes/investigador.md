@@ -10,6 +10,9 @@
    - **Casos para el robot:** sentencias y decisiones de la última 1-3 semanas de Corte Suprema, Corte Constitucional,
      Consejo de Estado, Comisión de Disciplina Judicial; cambios de ley o de portales (Rama, SAMAI, SIUGJ).
      Prioriza lo que le importa a un litigante y lo que la gente comenta.
+   - **Casos para JUSTIBOT AL DÍA:** noticias judiciales de Colombia de los **últimos 15 días** con debate jurídico
+     (imputaciones, acusaciones, condenas, decisiones de las altas cortes, tutelas sonadas). Anota la etapa procesal
+     exacta de cada persona y la fecha. Busca un tema jurídico que se pueda discutir (prueba, término, garantía).
    - **Calendario judicial:** festivos, vacancia, fechas límite de las próximas 2 semanas (fuente oficial).
    - **Tendencias del nicho:** ganchos y formatos que están funcionando en TikTok/Reels de abogados en Colombia.
    - **Comentarios reales** en las publicaciones de JustiBot (Metricool o lo que Carol cuente): las objeciones son guiones.
@@ -17,6 +20,8 @@
    - 3 casos para videos del robot (con 2 fuentes cada uno ya encontradas, o marcados "falta 2.ª fuente").
    - 3 piezas de marca de las series de `ideas/banco-estrategia.md` (Sin novedad, doctor · Traductor de la Rama · Objeción · …).
    - 1 carrusel educativo útil y guardable. 1 pieza ligera de fin de semana.
+   - Además, **4 candidatos para JUSTIBOT AL DÍA** (Carol elige 2): titular, etapa procesal, fecha, 2 fuentes,
+     pregunta para los abogados. Formato `AL DÍA` en la tabla.
 4. Puntúa cada idea: alcance (A/M/B), conversión (A/M/B), urgencia (fecha), esfuerzo. Ordena de mejor a peor.
 
 ## Formato de `ideas/AAAA-MM-DD.md`

@@ -74,6 +74,20 @@ contenido (https://claude.ai/artifact/BLsHp1mWeXRPufN5z6p1VW), plan SEO de 90 d�
 - Distinguir quién decidió qué (juzgado, tribunal, corte). No presentar un caso como regla automática.
   Suspensión no es anulación; tutela no es juicio penal.
 
+## JUSTIBOT AL DÍA (noticiero)
+
+- «JUSTIBOT AL DÍA. Historias reales. Debates sin filtros.» Noticiero animado vertical 9:16 de 45 a 90 s, **2 episodios por semana**.
+- Presentan **Carol Rodríguez** (voz es-CO-SalomeNeural) y **Yesser Palacios** (voz es-CO-GonzaloNeural); el robot JustiBot
+  es el "analista jurídico" (Gonzalo con tono más agudo) y explica la norma con el artículo exacto.
+- Solo noticias judiciales de Colombia de los **últimos 15 días**, cada dato con **2 fuentes**.
+- **Etapa procesal exacta, siempre dicha y en pantalla:** investigado (indagación/investigación), imputado, acusado (o
+  llamado a juicio), condenado (decir si en primera instancia, segunda o en firme), absuelto. Nunca llamar
+  "culpable" o "delincuente" a quien no está condenado en firme. Decir en voz alta "se presume inocente" cuando aplique.
+- Contar también la versión de la defensa o del procesado si existe. Neutral en política: el debate es jurídico, no partidista.
+- Nada de víctimas de delitos sexuales, menores ni familiares identificables: si el caso depende de eso, no va.
+- Siempre termina con una pregunta jurídica a los abogados, fácil de responder en comentarios.
+- Sin CTA de venta en la voz: el cierre gráfico ya pone el logo y "Pruébalo gratis · www.justibot.com.co".
+
 ## Redes y cuentas
 
 Instagram justibot.notifier · TikTok justibot_oficial · Facebook página 1229850563547585 ·

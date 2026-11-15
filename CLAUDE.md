@@ -40,7 +40,7 @@ Tareas programadas (hora de Bogotá): «JustiBot · Lunes: analista e investigad
 | `marca.md` | Tono, reglas visuales, lo que nunca se dice, datos confirmados del producto |
 | `aprendizajes.md` | Lo que funcionó y lo que no, con números (lo actualiza el analista) |
 | `ideas/` | Ideas de cada lunes y el banco de ideas de la estrategia |
-| `guiones/` | Plantilla, verificación y guiones (videos del robot y piezas de marca) |
+| `guiones/` | Plantilla, verificación y guiones (videos del robot, JUSTIBOT AL DÍA y piezas de marca) |
 | `piezas/` | Estado de cada pieza en producción (`piezas/AAAA-MM-DD-slug.md`) |
 | `publicado/` | Registro de lo que salió, con enlaces y resultados |
 | `planes/` | Plan mensual para crecer entre abogados |

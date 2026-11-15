@@ -1,0 +1,104 @@
+{
+  "id": "AD01",
+  "numero": 1,
+  "titulo": "Caso Char: la Corte revisará los beneficios de la testigo",
+  "ticker": [
+    "CORTE SUPREMA DECRETA PRUEBAS PEDIDAS POR LA DEFENSA DE ARTURO CHAR",
+    "CHAR ESTÁ ACUSADO Y EN JUICIO: SE PRESUME INOCENTE",
+    "JUSTIBOT AL DÍA · HISTORIAS REALES, DEBATES SIN FILTROS"
+  ],
+  "lineas": [
+    {
+      "quien": "ella",
+      "texto": "Buenas noches. Esto es JustiBot al día: historias reales y debates sin filtros. Soy Carol Rodríguez.",
+      "gesto": "abierta",
+      "cara": "sonrisa"
+    },
+    {
+      "quien": "el",
+      "texto": "Y yo soy Yesser Palacios. Hoy, un giro en el juicio contra el exsenador Arturo Char.",
+      "gesto": "explica",
+      "cara": "sonrisa"
+    },
+    {
+      "quien": "ella",
+      "texto": "La Corte Suprema aceptó revisar si Aida Merlano, la testigo principal, recibió beneficios de la Fiscalía.",
+      "gesto": "senala",
+      "lado": -1,
+      "cara": "seria",
+      "pantalla": {
+        "tipo": "caso",
+        "lugar": "Corte Suprema · Bogotá",
+        "fecha": "14 de noviembre de 2026",
+        "titular": "La Corte revisará si la testigo del caso Char recibió beneficios",
+        "fuente": "Infobae · Colprensa"
+      },
+      "zocalo": "CORTE SUPREMA DECRETA PRUEBAS EN EL JUICIO CONTRA ARTURO CHAR"
+    },
+    {
+      "quien": "el",
+      "texto": "También pidió a Venezuela la lista de colombianos que la visitaron cuando estuvo detenida allá.",
+      "gesto": "explica"
+    },
+    {
+      "quien": "ella",
+      "texto": "Ojo con la etapa: Char está acusado y en juicio, por concierto para delinquir y corrupción al sufragante. No ha sido condenado.",
+      "cara": "seria",
+      "pantalla": {
+        "tipo": "estado",
+        "etapa": "acusado",
+        "nota": "En juicio ante la Corte Suprema"
+      }
+    },
+    {
+      "quien": "el",
+      "texto": "Merlano, en cambio, sí fue condenada: once años y cuatro meses, por la compra de votos de dos mil dieciocho.",
+      "gesto": "mesa",
+      "cara": "seria"
+    },
+    {
+      "quien": "robot",
+      "texto": "Antes de opinar, recuerden: toda persona se presume inocente mientras un juez no la declare culpable."
+    },
+    {
+      "quien": "robot",
+      "texto": "Y el artículo veintinueve de la Constitución dice que quien es procesado puede presentar pruebas y controvertir las que se alleguen en su contra.",
+      "pantalla": {
+        "tipo": "norma",
+        "norma": "Artículo 29 · Constitución",
+        "titulo": "Debido proceso",
+        "texto": "«...a presentar pruebas y a controvertir las que se alleguen en su contra.»"
+      },
+      "toma": "pantalla"
+    },
+    {
+      "quien": "ella",
+      "texto": "La defensa quiere saber en qué condiciones declaró Merlano. Pero la Corte, al acusarlo, dijo que su relato tenía respaldo en otros testigos y pruebas.",
+      "gesto": "juntas",
+      "cara": "duda"
+    },
+    {
+      "quien": "el",
+      "texto": "Esas pruebas se practicarán en el juicio. La fecha de la audiencia todavía no está fijada.",
+      "gesto": "explica"
+    },
+    {
+      "quien": "ella",
+      "texto": "Y ahora les preguntamos a ustedes, abogados: ¿el testimonio de alguien que recibió beneficios debe pesar menos en un juicio?",
+      "gesto": "abierta",
+      "cara": "sonrisa",
+      "pantalla": {
+        "tipo": "pregunta",
+        "texto": "¿El testimonio de alguien que recibió beneficios debe pesar menos en un juicio?"
+      }
+    }
+  ],
+  "pregunta": "¿El testimonio de alguien que recibió beneficios debe pesar menos en un juicio?",
+  "fuentes": [
+    "Infobae, 14-nov-2026: Corte Suprema ordenó investigar si Aida Merlano recibió beneficios judiciales (magistrada Socorro Mora; pruebas en etapa de juzgamiento; fecha de audiencia por fijar)",
+    "CR Prensa / Colprensa, 14-nov-2026: registros de visitantes colombianos en Venezuela y testimonio de Bladimir Cuadro",
+    "Noticias Caracol e Infobae, jul-2026: acusación en firme por concierto para delinquir agravado y corrupción al sufragante agravado; la Sala halló respaldo en testigos, videos e informes",
+    "El Espectador y Blu Radio: la Corte rebajó la condena de Merlano de 15 años a 11 años y 4 meses",
+    "Constitución Política, artículo 29"
+  ]
+}
