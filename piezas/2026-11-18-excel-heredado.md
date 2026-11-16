@@ -1,5 +1,5 @@
 # Todos tenemos ese Excel
-- Estado: por aprobar (borradores en Metricool, draft: true)
+- Estado: programado (aprobada por Carol el 15-nov; todas sus publicaciones en Metricool con draft: false desde el 16-nov)
 - Formato: reel de marca (humor)
 - Día y hora: 2026-11-18 12:15 (Short 2026-11-19 18:00) · Redes: IG, TT, FB, YT
 - Archivos: 2026-11/reels/excel_heredado.mp4 · Música: bluelike_u-4-magic-keys-cute-bgm
