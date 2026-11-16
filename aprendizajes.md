@@ -6,6 +6,17 @@ Separa siempre lo **comprobado con números** de lo que es **impresión o hipót
 
 ## Comprobado (con datos)
 
+- 2026-11-16 · Instagram, 17-oct a 15-nov (Metricool, reels): los 4 videos del robot tuvieron en promedio 149 vistas
+  (robot 04: 184 vistas y 154 personas); los otros 14 reels, 31 de promedio: entre 11 y 35, salvo el lunes festivo (131) y Halloween (76). En Instagram solo
+  crecen los casos reales. → Si se baja el ritmo en Instagram, que lo que se quede sean los videos del robot.
+- 2026-11-16 · Facebook, 9 al 15-nov (Metricool, reels): el «Reto del sábado» (¿cuándo vence?) tuvo 667 vistas; los demás
+  reels de la semana, entre 188 y 241. Un solo dato: queda como pista fuerte, no como regla. → Repetir un reto con fecha
+  cada sábado y medir si se sostiene.
+- 2026-11-16 · Comentarios, 30 días (Metricool): 3 en TikTok (22 videos), 2 en Instagram y 3 en YouTube, aunque casi
+  todas las piezas cierran con pregunta. Los me gusta sí se mueven en los robots (30, 20, 9 y 8 en TikTok frente a 1-5 del
+  resto). → La pregunta final no está trayendo conversación: probar preguntas de una palabra o de elegir (A o B) y
+  responder cada comentario el mismo día.
+
 - 2026-11-13 · TikTok, 1 al 13-nov (Metricool, vistas por video): «¿Un abogado puede perder su tarjeta profesional?»
   (robot 01) lleva 2.959 vistas; las otras 13 piezas del periodo, entre 84 y 216. Los robots 03 (216) y 04 (197) están
   en la parte alta del resto. → 2 videos del robot por semana y probar ganchos con consecuencia concreta.
@@ -36,5 +47,5 @@ Separa siempre lo **comprobado con números** de lo que es **impresión o hipót
 
 ## Pendiente de medir
 
-- Alcance, vistas, guardados y compartidos por publicación (Metricool): lo empieza a registrar el analista.
+- Alcance, vistas, guardados y compartidos por publicación: registrados desde el 16-nov en `publicado/`.
 - Registros y pagos por red de origen: falta conectar Google Analytics (GA4 G-PJ9LZYFDRN).
