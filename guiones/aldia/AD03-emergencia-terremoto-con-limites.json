@@ -1,0 +1,100 @@
+{
+  "id": "AD03",
+  "numero": 3,
+  "titulo": "La Corte avaló la emergencia por el terremoto, con condiciones",
+  "ticker": [
+    "CORTE CONSTITUCIONAL AVALA LA EMERGENCIA ECONÓMICA POR EL TERREMOTO",
+    "DECISIÓN 7 A 1, CON CONDICIONES AL GOBIERNO",
+    "JUSTIBOT AL DÍA · HISTORIAS REALES, DEBATES SIN FILTROS"
+  ],
+  "lineas": [
+    {
+      "quien": "ella",
+      "texto": "Buenas noches. Esto es JustiBot al día: historias reales y debates sin filtros. Soy Carol Rodríguez.",
+      "gesto": "abierta",
+      "cara": "sonrisa"
+    },
+    {
+      "quien": "el",
+      "texto": "Y yo soy Yesser Palacios. Hoy: la Corte dijo sí a la emergencia por el terremoto… con condiciones.",
+      "gesto": "explica",
+      "cara": "sonrisa"
+    },
+    {
+      "quien": "ella",
+      "texto": "El once de noviembre, la Corte Constitucional avaló, siete votos contra uno, la emergencia por el terremoto del diez de agosto.",
+      "gesto": "senala",
+      "lado": -1,
+      "cara": "seria",
+      "pantalla": {
+        "tipo": "caso",
+        "lugar": "Corte Constitucional · Bogotá",
+        "fecha": "11 de noviembre de 2026",
+        "titular": "La Corte avala la emergencia por el terremoto, pero le pone límites",
+        "fuente": "El País · Infobae · Portafolio"
+      },
+      "zocalo": "CORTE CONSTITUCIONAL AVALA CON CONDICIONES LA EMERGENCIA POR EL TERREMOTO"
+    },
+    {
+      "quien": "el",
+      "texto": "Primera condición: solo municipios con daños reportados por la Unidad de Gestión del Riesgo. Para otros, hay que probar el daño.",
+      "gesto": "explica"
+    },
+    {
+      "quien": "ella",
+      "texto": "Segunda: nada para problemas anteriores al terremoto, ni para el déficit fiscal.",
+      "cara": "seria"
+    },
+    {
+      "quien": "el",
+      "texto": "Y tercera: Hacienda tiene veinte días hábiles para volver a calcular cuánto cuesta la emergencia.",
+      "gesto": "mesa"
+    },
+    {
+      "quien": "robot",
+      "texto": "¿Por qué puede poner límites? La emergencia le da al Gobierno poderes de legislador, pero solo para la crisis."
+    },
+    {
+      "quien": "robot",
+      "texto": "El artículo doscientos quince de la Constitución dice que esos decretos son exclusivamente para conjurar la crisis.",
+      "pantalla": {
+        "tipo": "norma",
+        "norma": "Artículo 215 · Constitución",
+        "titulo": "Estado de emergencia",
+        "texto": "«…decretos con fuerza de ley, destinados exclusivamente a conjurar la crisis…»"
+      },
+      "toma": "pantalla"
+    },
+    {
+      "quien": "ella",
+      "texto": "Ojo: no cierra el tema. Cada decreto de la emergencia pasa también por la Corte.",
+      "gesto": "juntas",
+      "cara": "duda"
+    },
+    {
+      "quien": "el",
+      "texto": "Y el Congreso también debe revisar el informe del Gobierno sobre la emergencia.",
+      "gesto": "explica"
+    },
+    {
+      "quien": "ella",
+      "texto": "Y ahora les preguntamos a ustedes, abogados: en una emergencia, ¿la Corte debe poner condiciones o solo decir sí o no?",
+      "gesto": "abierta",
+      "cara": "sonrisa",
+      "pantalla": {
+        "tipo": "pregunta",
+        "texto": "En una emergencia, ¿la Corte debe poner condiciones o solo decir sí o no?"
+      }
+    }
+  ],
+  "pregunta": "En una emergencia, ¿la Corte debe poner condiciones o solo decir sí o no?",
+  "fuentes": [
+    "Sentencia C-366 de 2026, anunciada el 11-nov-2026, exequible con condiciones (Decretos 1261 y 1348 de 2026): El País (https://www.elpais.com.co/colombia/corte-constitucional-avalo-la-emergencia-economica-por-el-terremoto-pero-puso-limites-al-gobierno-1113.html) · Infobae (https://www.infobae.com/colombia/2026/11/11/corte-constitucional-avalo-la-emergencia-economica-por-el-terremoto-del-10-de-agosto-pero-con-limites-al-uso-de-recursos/) · Portafolio (https://www.portafolio.co/economia/gobierno/corte-constitucional-declaro-exequible-la-emergencia-economica-estas-son-las-condiciones-que-impuso-al-gobierno-506190)",
+    "Votación 7 a 1: Valora Analitik (https://www.valoraanalitik.com/corte-constitucional-avala-emergencia-econo/) · El Colombiano (https://www.elcolombiano.com/negocios/corte-constitucional-avalo-emergencia-economica-terremoto-limito-gasto-gobierno-KL43481821)",
+    "Terremoto del 10-ago-2026: Decreto 1261 de 2026 (https://sidn.ramajudicial.gov.co/SIDN//NORMATIVA/TEXTOS_COMPLETOS/5_DECRETOS/DECRETOS%202026/Decreto%201261%20de%202026.pdf) · Portafolio",
+    "Municipios del reporte de la UNGRD; otros, con prueba técnica: Infobae · El Colombiano",
+    "Nada para problemas anteriores al 10-ago ni para el déficit fiscal: El País · Valora Analitik · Infobae",
+    "Hacienda: 20 días hábiles para recalcular el costo: El Colombiano · Infobae · Asuntos Legales (https://www.asuntoslegales.com.co/actualidad/corte-constitucional-avalo-el-estado-de-emergencia-economica-decretado-por-el-gobierno-4522780)",
+    "Cada decreto legislativo tiene control automático de la Corte; informe motivado al Congreso: Constitución, art. 215 (normograma de la Cancillería: https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/pdf/constitucion_politica_1991_pr007.pdf · https://leyes.co/constitucion/215.htm) · Portafolio, ABC de la emergencia"
+  ]
+}

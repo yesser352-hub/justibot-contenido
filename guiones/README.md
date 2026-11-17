@@ -14,3 +14,12 @@
 | 05 | Su cuerpo no es tema de burla | T-348 de 2026 | En `animados/listos/` |
 | 06 | Esperar para entrar también es trabajar | SL852-2026 | En `animados/listos/` |
 | 07 | Vuelve el período de prueba de los aprendices | Consejo de Estado (Decreto 223 de 2026) | En `animados/listos/` |
+| 08 | La casación que terminó en una investigación al abogado | AP5793-2026 | Guion por aprobar (17-nov) |
+| 09 | La ley más dura no va hacia atrás | Corte Suprema, casación (inhabilidad 48 → 4 meses) | Guion por aprobar (17-nov) |
+| 10 | El cuidado también es del papá | T-363 de 2026 | Guion por aprobar (17-nov) |
+
+JUSTIBOT AL DÍA (`aldia/`): AD02 juez mexicano y extradición · AD03 emergencia por el terremoto (C-366 de 2026) ·
+AD04 medida más dura que la pedida. Guiones por aprobar (17-nov).
+
+Piezas de marca (`piezas/`, 17-nov, por aprobar): Objeción ep. 1 · Traductor de la Rama ep. 1 · Sin novedad, doctor ep. 1 ·
+Diciembre en 4 fechas · Reto del sábado #2.

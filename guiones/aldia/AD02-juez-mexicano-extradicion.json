@@ -1,0 +1,105 @@
+{
+  "id": "AD02",
+  "numero": 2,
+  "titulo": "Juez mexicano capturado en Bogotá con fines de extradición",
+  "ticker": [
+    "JUEZ MEXICANO CAPTURADO EN BOGOTÁ CON FINES DE EXTRADICIÓN",
+    "ESTÁ ACUSADO EN ESTADOS UNIDOS: SE PRESUME INOCENTE",
+    "JUSTIBOT AL DÍA · HISTORIAS REALES, DEBATES SIN FILTROS"
+  ],
+  "lineas": [
+    {
+      "quien": "ella",
+      "texto": "Buenas noches. Esto es JustiBot al día: historias reales y debates sin filtros. Soy Carol Rodríguez.",
+      "gesto": "abierta",
+      "cara": "sonrisa"
+    },
+    {
+      "quien": "el",
+      "texto": "Y yo soy Yesser Palacios. Hoy, un juez mexicano capturado en Bogotá que Estados Unidos quiere juzgar.",
+      "gesto": "explica",
+      "cara": "sonrisa"
+    },
+    {
+      "quien": "ella",
+      "texto": "Luis Benítez Alcántara fue capturado el primero de noviembre en el aeropuerto de Bogotá, con fines de extradición.",
+      "gesto": "senala",
+      "lado": -1,
+      "cara": "seria",
+      "pantalla": {
+        "tipo": "caso",
+        "lugar": "Aeropuerto de Bogotá",
+        "fecha": "1 de noviembre de 2026",
+        "titular": "Capturan en Bogotá a juez mexicano pedido por Estados Unidos",
+        "fuente": "Departamento de Justicia de EE. UU. · Infobae · Proceso"
+      },
+      "zocalo": "JUEZ MEXICANO CAPTURADO EN BOGOTÁ: ESTADOS UNIDOS PEDIRÁ SU EXTRADICIÓN"
+    },
+    {
+      "quien": "el",
+      "texto": "Según la justicia de Estados Unidos, recibió dos millones de dólares y ese día dejó libre bajo fianza a un presunto narcotraficante.",
+      "gesto": "explica"
+    },
+    {
+      "quien": "ella",
+      "texto": "Ojo con la etapa: está acusado en Estados Unidos, con nueve cargos de encubrimiento. No ha sido condenado y se presume inocente.",
+      "cara": "seria",
+      "pantalla": {
+        "tipo": "estado",
+        "etapa": "acusado",
+        "nota": "Acusado en EE. UU. · No condenado"
+      }
+    },
+    {
+      "quien": "el",
+      "texto": "Su defensa niega el soborno, pide que lo juzguen en México y ya pidió su libertad inmediata ante un juez en Bogotá.",
+      "gesto": "mesa",
+      "cara": "duda"
+    },
+    {
+      "quien": "robot",
+      "texto": "¿Y quién decide si se va? En Colombia, primero da su concepto la Sala Penal de la Corte Suprema."
+    },
+    {
+      "quien": "robot",
+      "texto": "Según el artículo quinientos uno de la Ley novecientos seis, si el concepto es negativo, obliga al Gobierno. Si es favorable, el Gobierno decide.",
+      "pantalla": {
+        "tipo": "norma",
+        "norma": "Artículo 501 · Ley 906 de 2004",
+        "titulo": "Concepto de la Corte",
+        "texto": "«El concepto negativo de la Corte Suprema de Justicia obligará al gobierno»"
+      },
+      "toma": "pantalla"
+    },
+    {
+      "quien": "ella",
+      "texto": "La Corte revisa la identidad, los documentos y que la conducta también sea delito aquí.",
+      "gesto": "juntas"
+    },
+    {
+      "quien": "el",
+      "texto": "Aún no se conoce la respuesta a esa solicitud ni la fecha del concepto.",
+      "gesto": "explica"
+    },
+    {
+      "quien": "ella",
+      "texto": "Y ahora les preguntamos a ustedes, abogados: en una extradición, ¿quién debería tener la última palabra, la Corte o el Gobierno?",
+      "gesto": "abierta",
+      "cara": "sonrisa",
+      "pantalla": {
+        "tipo": "pregunta",
+        "texto": "En una extradición, ¿quién debería tener la última palabra: la Corte o el Gobierno?"
+      }
+    }
+  ],
+  "pregunta": "En una extradición, ¿quién debería tener la última palabra: la Corte o el Gobierno?",
+  "fuentes": [
+    "Captura con fines de extradición y anuncio de que EE. UU. pedirá la extradición: Departamento de Justicia de EE. UU., 5-nov-2026 (https://www.justice.gov/opa/pr/homeland-security-task-force-investigation-leads-mexican-federal-judges-arrest-us-charges) · AP vía NY1, 5-nov-2026",
+    "Domingo 1-nov-2026, aeropuerto de Bogotá: Infobae México, 7-nov-2026 (https://www.infobae.com/mexico/2026/11/07/juez-luis-benitez-busca-evitar-la-extradicion-a-eeuu-niega-haber-recibido-2-millones-de-dolares-para-liberar-a-socio-de-ryan-wedding/) · Proceso, 10-nov-2026 (https://www.proceso.com.mx/nacional/2026/11/10/juez-mexicano-luis-benitez-detenido-en-colombia-por-sobornos-del-narco-solicita-libertad-inmediata-383431.html)",
+    "USD 2 millones, pago recibido y libertad bajo fianza el mismo día (24-feb-2025): Departamento de Justicia de EE. UU. · AP",
+    "Nueve cargos de encubrimiento (accessory after the fact), acusación del Distrito Central de California; presunción de inocencia: Departamento de Justicia de EE. UU. · AP",
+    "La defensa niega el soborno y pide ser juzgado en México: Infobae México, 7-nov-2026 · El Financiero, 6-nov-2026 (https://www.elfinanciero.com.mx/mundo/2026/11/06/juez-que-recibio-sobornos-del-chapo-canadiense-pide-ser-juzgado-en-mexico-y-no-en-eu/)",
+    "Solicitud de libertad inmediata en Bogotá (10-nov): Proceso, 10-nov-2026 · Infobae México, 11-nov-2026 (https://www.infobae.com/mexico/2026/11/11/eeuu-notifico-a-mexico-unos-dias-antes-sobre-la-detencion-del-juez-mexicano-benitez-alcantara-en-colombia/)",
+    "Ley 906 de 2004, arts. 501 y 502: normograma de la Cancillería (https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/pdf/ley_0906_2004_pr012.pdf) · leyes.co (https://leyes.co/codigo_de_procedimiento_penal/501.htm)"
+  ]
+}

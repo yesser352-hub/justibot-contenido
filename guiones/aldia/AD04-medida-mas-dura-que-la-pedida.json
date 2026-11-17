@@ -1,0 +1,104 @@
+{
+  "id": "AD04",
+  "numero": 4,
+  "titulo": "La Fiscalía pidió casa por cárcel y el juez la mandó a prisión: anulada en segunda instancia",
+  "ticker": [
+    "JUEZ DE SANTA MARTA ANULA MEDIDA DE CÁRCEL CONTRA YOLIMA MURGAS",
+    "ESTÁ IMPUTADA POR LAVADO DE ACTIVOS: SE PRESUME INOCENTE",
+    "JUSTIBOT AL DÍA · HISTORIAS REALES, DEBATES SIN FILTROS"
+  ],
+  "lineas": [
+    {
+      "quien": "ella",
+      "texto": "Buenas noches. Esto es JustiBot al día: historias reales y debates sin filtros. Soy Carol Rodríguez.",
+      "gesto": "abierta",
+      "cara": "sonrisa"
+    },
+    {
+      "quien": "el",
+      "texto": "Y yo soy Yesser Palacios. Hoy: ¿puede un juez ir más allá de lo que pidió la Fiscalía?",
+      "gesto": "explica",
+      "cara": "duda"
+    },
+    {
+      "quien": "ella",
+      "texto": "En Santa Marta, un juez de segunda instancia anuló la medida de cárcel contra Yolima Murgas, y recuperó la libertad.",
+      "gesto": "senala",
+      "lado": -1,
+      "cara": "seria",
+      "pantalla": {
+        "tipo": "caso",
+        "lugar": "Santa Marta · Juzgado 5.º Penal del Circuito",
+        "fecha": "14 de noviembre de 2026",
+        "titular": "Juez anula la medida de cárcel contra Yolima Murgas",
+        "fuente": "Infobae · IFM Noticias · Semana"
+      },
+      "zocalo": "ANULAN MEDIDA DE CÁRCEL: LA FISCALÍA HABÍA PEDIDO DETENCIÓN EN CASA"
+    },
+    {
+      "quien": "el",
+      "texto": "En octubre, la Fiscalía había pedido detención en su casa. Pero el juez de control de garantías la mandó a la cárcel.",
+      "gesto": "explica"
+    },
+    {
+      "quien": "ella",
+      "texto": "Ojo con la etapa: está imputada por presunto lavado de activos, en un caso ligado a alias Pinocho. No aceptó cargos. Se presume inocente.",
+      "cara": "seria",
+      "pantalla": {
+        "tipo": "estado",
+        "etapa": "imputado",
+        "nota": "No aceptó cargos · Se presume inocente"
+      }
+    },
+    {
+      "quien": "el",
+      "texto": "Su defensa alegó que el juez se excedió.",
+      "gesto": "mesa"
+    },
+    {
+      "quien": "robot",
+      "texto": "En el sistema acusatorio, la medida de aseguramiento la pide la Fiscalía."
+    },
+    {
+      "quien": "robot",
+      "texto": "Lo dice el artículo trescientos seis de la Ley novecientos seis.",
+      "pantalla": {
+        "tipo": "norma",
+        "norma": "Artículo 306 · Ley 906 de 2004",
+        "titulo": "Solicitud de imposición",
+        "texto": "«El fiscal solicitará al Juez de Control de Garantías imponer medida…»"
+      },
+      "toma": "pantalla"
+    },
+    {
+      "quien": "robot",
+      "texto": "Pero si el juez puede ir más allá no es tema cerrado: la Corte Suprema ha tenido posiciones distintas."
+    },
+    {
+      "quien": "el",
+      "texto": "La decisión no cierra la investigación. La audiencia se debe repetir y la Fiscalía puede volver a pedir una medida.",
+      "gesto": "explica"
+    },
+    {
+      "quien": "ella",
+      "texto": "Y ahora les preguntamos a ustedes, abogados: ¿puede un juez imponer una medida más dura que la que pidió la Fiscalía? Sí o no.",
+      "gesto": "abierta",
+      "cara": "sonrisa",
+      "pantalla": {
+        "tipo": "pregunta",
+        "texto": "¿Puede un juez imponer una medida más dura que la que pidió la Fiscalía?"
+      }
+    }
+  ],
+  "pregunta": "¿Puede un juez imponer una medida más dura que la que pidió la Fiscalía?",
+  "fuentes": [
+    "Juzgado Quinto Penal del Circuito de Santa Marta, en segunda instancia, anuló la medida de aseguramiento; decisión conocida el 14-nov-2026; quedó en libertad: IFM Noticias, 15-nov (https://ifmnoticias.com/judicial/juez-de-santa-marta-anula-la-medida-de-aseguramiento-contra-yolima-murgas-senala/) · Infobae, 14-nov (https://www.infobae.com/colombia/2026/11/14/quedo-en-libertad-yolima-murgas-senalada-de-ser-la-pareja-sentimental-de-alias-pinocho-un-juez-anulo-su-medida-de-aseguramiento/) · Semana, 16-nov (https://www.semana.com/nacion/articulo/juez-deja-libre-a-la-esposa-de-alias-pinocho-maximo-jefe-de-las-autodefensas/202600/) · Diario La Libertad, 15-nov",
+    "En octubre la Fiscalía pidió detención domiciliaria y el juez de control de garantías impuso cárcel: Vanguardia, 6-oct (https://www.vanguardia.com/colombia/2026/10/06/juez-ordena-carcel-para-esposa-de-alias-pinocho-senalada-de-manejar-los-recursos/) · NoticiasBQ, 6-oct (https://noticiasbq.com/a-la-carcel-yolima-murgas-senalada-pareja-de-alias-pinocho-por-presunto-lavado-de-activos/) · Infobae, 14-nov",
+    "Imputada por lavado de activos, no aceptó cargos, etapa preliminar: IFM Noticias · Infobae · Vanguardia",
+    "Investigación relacionada con alias Pinocho: Diario La Libertad (https://diariolalibertad.com/2026/11/15/juez-ordena-libertad-de-yolima-murgas-investigada-por-presunto-lavado-de-activos-relacionado-con-alias-pinocho/) · Infobae",
+    "La defensa alegó exceso del juez: Infobae · Diario La Libertad · IFM Noticias",
+    "La audiencia se repite y la Fiscalía puede volver a pedir medida: IFM Noticias · Diario La Libertad · Infobae",
+    "Ley 906 de 2004, art. 306: Alcaldía de Bogotá, Secretaría Jurídica (https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=14787) · https://leyonline.co/laws/ley-906-de-2004/articulo-306-solicitud-de-imposicion",
+    "Posiciones distintas de la Corte Suprema: STP14534-2026 (el juez decide dentro de lo pedido; vía https://rsanabria.co/2026/08/14/el-juez-de-garantias-no-puede-imponer-una-medida-mas-grave-que-la-solicitada-por-la-fiscalia/) · STP11475-2025 (el juez elige la medida; vía https://priascadavid.com/capsulas-academicas/juez-garantias-medida-aseguramiento-mas-gravosa/). Por eso no se cita ninguna como regla."
+  ]
+}
