@@ -38,3 +38,8 @@ Regla: no repetir la misma canción en dos piezas seguidas.
 - 2026-11-19 El correo más aburrido → grumpynora-lay-back
 - 2026-11-21 Doctor F5 → vaitsez-vlog-vlog-beat
 - 2026-11-22 Tú sabes quién (colega de las 6 a. m.) → kontraa-water-afro-pop-music
+- 2026-11-23 Objeción ep. 1: «La Rama es gratis» → yourtunes-minimal-corporate
+- 2026-11-24 Traductor de la Rama ep. 1 → ikoliks-children-ukulele-upbeat-positive-pop-rock
+- 2026-11-25 Sin novedad, doctor ep. 1 → zephiramusic-tokyo-lofi
+- 2026-11-26 TikTok Diciembre en 4 fechas (carrusel) → yourtunes-christmas
+- 2026-11-28 Reto del sábado #2: ¿cuándo vence? → yourtunes-inspiring-energetic-and-uplifting-sports
