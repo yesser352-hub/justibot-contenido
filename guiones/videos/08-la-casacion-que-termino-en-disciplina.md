@@ -1,6 +1,6 @@
 # JustiBot 08 — «La casación que terminó en una investigación al abogado» (AP5793-2026)
 
-Formato: video del robot, ~62 s, 6 escenas. Estado: por aprobar. Idea de origen: `ideas/2026-11-16.md` #2.
+Formato: video del robot, ~62 s, 6 escenas. Estado: aprobado (18-nov); en producción (20-nov). Idea de origen: `ideas/2026-11-16.md` #2.
 Publicación propuesta: martes 24-nov, 6:30 p. m. (IG, TT, FB; Short en YT).
 
 ## Datos verificados y fuentes

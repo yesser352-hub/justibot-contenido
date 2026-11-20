@@ -1,6 +1,6 @@
 # JustiBot 09 — «La ley más dura no se aplica hacia atrás» (Corte Suprema, inhabilidad de 48 a 4 meses)
 
-Formato: video del robot, ~63 s, 6 escenas. Estado: por aprobar. Idea de origen: `ideas/2026-11-16.md` #1.
+Formato: video del robot, ~63 s, 6 escenas. Estado: aprobado (18-nov); en producción (20-nov). Idea de origen: `ideas/2026-11-16.md` #1.
 Publicación propuesta: viernes 27-nov, 6:30 p. m. (IG, TT, FB; Short en YT).
 
 ## Datos verificados y fuentes
