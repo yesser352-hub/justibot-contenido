@@ -43,3 +43,5 @@ Regla: no repetir la misma canción en dos piezas seguidas.
 - 2026-11-25 Sin novedad, doctor ep. 1 → zephiramusic-tokyo-lofi
 - 2026-11-26 TikTok Diciembre en 4 fechas (carrusel) → yourtunes-christmas
 - 2026-11-28 Reto del sábado #2: ¿cuándo vence? → yourtunes-inspiring-energetic-and-uplifting-sports
+- 2026-11-27 Viernes, 4:59 p. m. → bluelike_u-3-switch-up-anime-instrumental-theme-song-free
+- 2026-11-29 La lista mental del domingo → the_mountain-lofi-lofi-music
