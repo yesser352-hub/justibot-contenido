@@ -63,3 +63,5 @@ Separa siempre lo **comprobado con números** de lo que es **impresión o hipót
 
 - Alcance, vistas, guardados y compartidos por publicación: registrados desde el 16-nov en `publicado/`.
 - Registros y pagos por red de origen: falta conectar Google Analytics (GA4 G-PJ9LZYFDRN).
+
+- 23-nov-2026 · Carol: los reels de solo texto no generan enganche; desde la semana del 30-nov los reels de marca llevan narración y diseño más llamativo (detalle en `agentes/disenador.md`).
