@@ -1,0 +1,20 @@
+JustiBot 08 | La casación que terminó en una investigación al abogado
+Video vertical 1080x1920, 64,2 s, voz es-CO (Gonzalo), subtítulos incrustados, -14 LUFS.
+
+DE QUÉ CASO TRATA
+Auto AP5793-2026, Corte Suprema, Sala de Casación Penal. Un hombre fue condenado en Montería a 64 meses de prisión
+por tráfico, fabricación o porte de estupefacientes; el Tribunal Superior de Montería confirmó. Su defensor público
+presentó demanda de casación que solo enumeraba derechos, sin desarrollarlos, sin acreditar el interés para recurrir
+y sin invocar causal. La Corte la inadmitió y compulsó copias a la Comisión Seccional de Disciplina Judicial de Córdoba.
+- Compulsar copias abre una investigación; el abogado NO ha sido sancionado.
+- Sin nombres del procesado ni del defensor. La fecha exacta del auto no se confirmó (no se dice).
+
+FUENTES
+- Oficial: https://cortesuprema.gov.co/?p=111945 (Corte Suprema, 10-nov-2026)
+- Prensa: https://www.periodicoelcorreo.co/ultimas-noticias/corte-pide-investigar-disciplinariamente-al-abogado-del-procesado/ (El Correo, 12-nov-2026)
+
+ARCHIVOS
+- justibot-08-la-casacion-que-termino-en-disciplina.mp4  (video final)
+- justibot-08-la-casacion-que-termino-en-disciplina.jpg  (portada vertical, sin subtítulos)
+Proyecto: repositorio Justibot, rama videos/short-08-la-casacion-que-termino-en-disciplina, carpeta videos/ (composición CasacionShort).
+Render en el PC de Carol el 23-nov-2026; aprobado por Carol el 23-nov-2026.
