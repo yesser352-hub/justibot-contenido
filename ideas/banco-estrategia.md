@@ -57,3 +57,7 @@ Antes de usar una idea sobre el producto, revisa `marca.md` (por ejemplo, el rep
 
 - Tipos de litigante revisando procesos (13-nov) · Diccionario del litigante (11-nov) · Este o ese (12-nov) ·
   Haz la cuenta (27-oct) · Checklist de vacancia (4-nov) · Rutina de las 7 a. m. (5-nov).
+- Los 23 dígitos (16-nov) · El Excel heredado (18-nov) · El correo más aburrido (19-nov) · Doctor F5 (21-nov) ·
+  Usted sabe a quién (22-nov) · Objeción «La Rama es gratis» (23-nov) · Traductor ep. 1 «Al despacho» (24-nov) ·
+  Sin novedad, doctor ep. 1 (25-nov). Propuestas el 23-nov: Sin novedad ep. 2 «El día que sí hubo novedad» ·
+  Objeción ep. 2 «¿Sirve para SAMAI?» · Traductor ep. 2 · Cuál es cuál (carrusel).
