@@ -6,6 +6,20 @@ Separa siempre lo **comprobado con números** de lo que es **impresión o hipót
 
 ## Comprobado (con datos)
 
+- 2026-11-23 · Semana 16-22 nov (Metricool, por publicación): el robot 06 (SL852-2026, accidente antes de entrar a la obra)
+  es el reel más visto de la historia de la cuenta en Instagram: 1.040 vistas y 954 personas (la cuenta tiene 55 seguidores).
+  Los 2 robots de la semana promediaron 598 vistas en Instagram y 554 en TikTok; los 5 reels de humor, 23 y 105.
+  Es la tercera semana seguida con esa diferencia. → El freno es la producción: sin los robots 08 y 09 renderizados,
+  la semana del 23-nov solo tiene 1. Prioridad: 2 robots por semana, con casos laborales y de seguridad social en la lista.
+- 2026-11-23 · Seguidores (Metricool, evolución): TikTok pasó de 29 a 35 en la semana, y el salto (30 → 35) fue entre el 19
+  y el 21-nov, cuando salió el robot 06. Instagram, 54 → 55. Un solo salto: pista, no regla. → Medir seguidores el día
+  después de cada robot.
+- 2026-11-23 · Comentarios (Metricool, TikTok): el robot 05 (T-348) trajo 5 comentarios con la pregunta «¿Crítica o burla:
+  dónde pones el límite?»; el robot 06 («¿Lo sabías? Responde sí o no») y los 5 de humor, 0. Un dato: pista. → Cerrar los
+  robots con una pregunta de debate entre dos opciones sobre el caso, no con «¿lo sabías?».
+- 2026-11-23 · Facebook, semana sin reto: todos los reels quedaron entre 118 y 248 vistas; ninguno llegó cerca de las 667
+  del Reto del sábado (14-nov). → El Reto del sábado #2 (28-nov) dirá si el reto con fecha es lo que mueve Facebook.
+
 - 2026-11-16 · Instagram, 17-oct a 15-nov (Metricool, reels): los 4 videos del robot tuvieron en promedio 149 vistas
   (robot 04: 184 vistas y 154 personas); los otros 14 reels, 31 de promedio: entre 11 y 35, salvo el lunes festivo (131) y Halloween (76). En Instagram solo
   crecen los casos reales. → Si se baja el ritmo en Instagram, que lo que se quede sean los videos del robot.
