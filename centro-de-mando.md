@@ -35,3 +35,10 @@ para vistas previas (JPG 540×960 o MP4 liviano `ffmpeg -vf scale=540:-2 -crf 28
   `estado: "aprobado"` y `errorProgramar`: el community manager la programa en su revisión diaria.
 - "Pedir cambio" guarda `cambio` y pone `aprobado: false`. El agente responsable lo atiende, borra `cambio`
   (`{"__delete__": true}`) y vuelve a dejar la pieza `por aprobar`.
+
+## Falla conocida (23-nov-2026)
+
+Al aprobar en el panel, solo se programa la publicación de Instagram + TikTok. Las de Facebook y YouTube quedan en
+borrador y la pieza marca `errorProgramar` («Metricool respondió con un error»): el panel manda `instagramData` en
+publicaciones que no llevan Instagram y Metricool lo rechaza. Mientras se corrige, la revisión diaria (8:43 a. m.)
+debe revisar en Metricool **todos** los uuids de cada pieza aprobada y pasar a `draft: false` los que sigan en borrador.
