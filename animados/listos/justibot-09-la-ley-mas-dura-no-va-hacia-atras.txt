@@ -1,0 +1,20 @@
+JustiBot 09 | La ley más dura no va hacia atrás (inhabilidad de 48 a 4 meses)
+Video vertical 1080x1920, 65,8 s, voz es-CO (Gonzalo), subtítulos incrustados, -14 LUFS.
+
+DE QUÉ CASO TRATA
+Sentencia de casación de la Corte Suprema, Sala de Casación Penal, publicada el 11-nov-2026. En 2009 un abogado presentó
+documentos falsos ante una empresa para hacerse pasar por representante de un accionista que vivía en el exterior y quedarse
+con acciones por más de $371 millones. Por preacuerdo fue condenado a 48 meses de prisión y 48 meses de inhabilidad.
+La Corte casó parcialmente: mantuvo la prisión y la condena y redujo la inhabilidad a 4 meses, porque a hechos de 2009 se les
+aplicó una reforma posterior más gravosa (Ley 1762 de 2015, arts. 46 y 51 del Código Penal). Constitución, art. 29.
+- No lo absolvió: sigue condenado. Número, fecha y ponente no confirmados: no se dicen. Sin nombres.
+
+FUENTES
+- Infobae, 11-nov-2026: https://www.infobae.com/colombia/2026/11/11/corte-suprema-tomo-polemica-decision-en-condena-de-un-abogado-que-falsifico-documentos-para-quedarse-con-un-millonario-caso/
+- La Veintitrés, 11-nov-2026: https://laveintitres.com/corte-suprema-reduce-de-48-a-4-meses-inhabilidad-de-abogado-condenado-por-fraude/
+
+ARCHIVOS
+- justibot-09-la-ley-mas-dura-no-va-hacia-atras.mp4  (video final)
+- justibot-09-la-ley-mas-dura-no-va-hacia-atras.jpg  (portada vertical, sin subtítulos)
+Proyecto: repositorio Justibot, rama videos/short-09-la-ley-mas-dura-no-va-hacia-atras, carpeta videos/ (composición FavorabilidadShort).
+Render en el PC de Carol el 23-nov-2026.
