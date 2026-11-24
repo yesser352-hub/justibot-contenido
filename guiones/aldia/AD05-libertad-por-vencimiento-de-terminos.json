@@ -1,0 +1,103 @@
+{
+  "id": "AD05",
+  "numero": 5,
+  "titulo": "UNGRD: la Corte negó la libertad por vencimiento de términos a Manzur y Manrique",
+  "ticker": [
+    "CASO UNGRD: CORTE NIEGA LIBERTAD POR VENCIMIENTO DE TÉRMINOS",
+    "WADITH MANZUR Y KAREN MANRIQUE ESTÁN ACUSADOS: SE PRESUMEN INOCENTES",
+    "JUSTIBOT AL DÍA · HISTORIAS REALES, DEBATES SIN FILTROS"
+  ],
+  "lineas": [
+    {
+      "quien": "ella",
+      "texto": "Buenas noches. Esto es JustiBot al día: historias reales y debates sin filtros. Soy Carol Rodríguez.",
+      "gesto": "abierta",
+      "cara": "sonrisa"
+    },
+    {
+      "quien": "el",
+      "texto": "Y yo soy Yesser Palacios. Hoy: seis meses sin juicio. ¿Hay libertad? La Corte dijo que no… todavía.",
+      "gesto": "explica",
+      "cara": "duda"
+    },
+    {
+      "quien": "ella",
+      "texto": "La Corte Suprema les negó la libertad por vencimiento de términos a Wadith Manzur y Karen Manrique, en el caso UNGRD.",
+      "gesto": "senala",
+      "lado": -1,
+      "cara": "seria",
+      "pantalla": {
+        "tipo": "caso",
+        "lugar": "Bogotá · Corte Suprema, Sala de Primera Instancia",
+        "fecha": "18 de noviembre de 2026",
+        "titular": "Corte niega libertad por vencimiento de términos a Manzur y Manrique",
+        "fuente": "Noticias RCN · Semana · El País"
+      },
+      "zocalo": "CASO UNGRD: LA CORTE NIEGA LA LIBERTAD POR VENCIMIENTO DE TÉRMINOS"
+    },
+    {
+      "quien": "ella",
+      "texto": "Ojo con la etapa: están acusados y detenidos desde el doce de marzo. El juicio no ha empezado. Se presumen inocentes.",
+      "cara": "seria",
+      "pantalla": {
+        "tipo": "estado",
+        "etapa": "acusado",
+        "nota": "Juicio sin empezar · Se presumen inocentes"
+      }
+    },
+    {
+      "quien": "el",
+      "texto": "Su defensa dice que la acusación quedó en firme el doce de mayo, y que pasaron más de seis meses sin audiencia pública.",
+      "gesto": "explica"
+    },
+    {
+      "quien": "robot",
+      "texto": "Es un proceso de la Ley seiscientos. Su artículo trescientos sesenta y cinco da libertad provisional en ese caso.",
+      "pantalla": {
+        "tipo": "norma",
+        "norma": "Artículo 365, num. 5 · Ley 600 de 2000",
+        "titulo": "Libertad provisional",
+        "texto": "«…más de seis (6) meses… sin que se hubiere celebrado la correspondiente audiencia pública…»"
+      },
+      "toma": "pantalla"
+    },
+    {
+      "quien": "robot",
+      "texto": "Pero la misma norma amplía el plazo hasta seis meses más si se decretaron pruebas en el exterior."
+    },
+    {
+      "quien": "el",
+      "texto": "La Corte contó distinto: la acusación quedó en firme el veintiséis de mayo. Dijo que no hay ejecutorias parciales.",
+      "gesto": "mesa"
+    },
+    {
+      "quien": "robot",
+      "texto": "Y como se decretó el testimonio de un testigo que está en Nicaragua, el plazo es de doce meses."
+    },
+    {
+      "quien": "el",
+      "texto": "Según la Corte, podría ir hasta el veintiséis de mayo de dos mil veintisiete.",
+      "gesto": "explica"
+    },
+    {
+      "quien": "ella",
+      "texto": "Y ahora les preguntamos a ustedes, abogados: ¿un testigo en el exterior justifica seis meses más de detención? Sí o no.",
+      "gesto": "abierta",
+      "cara": "sonrisa",
+      "pantalla": {
+        "tipo": "pregunta",
+        "texto": "¿Un testigo en el exterior justifica seis meses más de detención?"
+      }
+    }
+  ],
+  "pregunta": "¿Un testigo en el exterior justifica seis meses más de detención?",
+  "fuentes": [
+    "Auto del 18-nov-2026, Sala de Primera Instancia de la Corte Suprema, niega la libertad por vencimiento de términos: Noticias RCN, 19-nov-2026: https://www.noticiasrcn.com/colombia/corte-suprema-niega-libertad-por-vencimiento-de-terminos-a-wadith-manzur-y-karen-manrique-en-caso-ungrd-1083543 · Semana, 19-nov-2026: https://www.semana.com/nacion/articulo/wadith-manzur-y-karen-manrique-seguiran-en-la-carcel-corte-suprema-nego-libertad-por-vencimiento-de-terminos/202627/ · El País, 19-nov-2026: https://www.elpais.com.co/judicial/wadith-manzur-y-karen-manrique-seguiran-privados-de-la-libertad-tras-decision-de-la-corte-suprema-1920.html",
+    "Están acusados (resolución de acusación ejecutoriada), juicio sin audiencia pública: Noticias RCN · Semana · El País (cita de la Corte sobre la «resolución de acusación»)",
+    "Detenidos desde el 12-mar-2026: El País · Semana (RCN: desde marzo de 2026)",
+    "Defensa: acusación en firme el 12-may-2026 y más de 6 meses sin audiencia: Noticias RCN · Semana",
+    "Corte: ejecutoria el 26-may-2026; no hay ejecutorias parciales: Noticias RCN · Semana (El País: «no quedó ejecutoriada antes del 26 de mayo de 2026»)",
+    "Plazo de 12 meses por el testimonio decretado de un testigo en Nicaragua; hasta el 26-may-2027: Noticias RCN · Semana · El País",
+    "Ley 600 de 2000, art. 365, num. 5 (seis meses desde la ejecutoria de la acusación sin audiencia pública, ampliable hasta seis meses si se decretaron pruebas en el exterior): https://leyonline.co/laws/codigo-de-procedimiento-penal-2000/articulo-365-causales · https://www.unidadvictimas.gov.co/wp-content/uploads/Documentos/ley/Ley_600_2000.pdf (SUIN-Juriscol)"
+  ]
+}
