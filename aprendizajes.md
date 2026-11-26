@@ -6,6 +6,22 @@ Separa siempre lo **comprobado con números** de lo que es **impresión o hipót
 
 ## Comprobado (con datos)
 
+- 2026-11-26 · Cierre de noviembre, 1 al 25-nov (Metricool, por publicación): los 7 robots promediaron 704 vistas en TikTok
+  (325 sin contar el robot 01, que llegó a 2.978) y 273 en Instagram; los otros 21 videos de TikTok, 124, y los otros
+  18 reels de Instagram, unas 25. Es el cuarto corte seguido con la misma diferencia. → El robot es el formato que mueve
+  la cuenta: 2 por semana sin falta en diciembre, con los guiones listos el martes para que el viernes se rendericen.
+- 2026-11-26 · YouTube, 1 al 25-nov (Metricool, evolución y Shorts): el canal pasó de 5 a 17 suscriptores y casi todo llegó
+  en 3 días: 4-nov (+9), 11-nov (+3) y 21-nov (+5). Esos días salieron los 3 Shorts más vistos del mes: 317 vistas (4-nov),
+  968 (11-nov) y 1.083 (21-nov, Short del robot 06). Los demás Shorts, entre 12 y 142. → El Short de cada robot es la
+  pieza que más suscriptores trae: publicarlo siempre al día siguiente del robot, nunca saltarlo.
+- 2026-11-26 · Comentarios del mes (Metricool, TikTok): 6 en 28 videos; 5 salieron del robot 05 («¿Crítica o burla: dónde
+  pones el límite?»). Las preguntas «¿Lo sabías? Responde sí o no» (robots 06 y 07) y las de humor trajeron 0. Instagram
+  tuvo 1 comentario en el mes. Sigue siendo poco dato, pero va en la misma dirección que el 23-nov. → Todo robot de
+  diciembre cierra con una pregunta de debate entre dos posturas sobre el caso.
+- 2026-11-26 · Seguidores en noviembre (Metricool, evolución): TikTok 24 → 35 (3 al 25-nov), Instagram 54 → 55. Instagram no
+  crece aunque el robot 06 llegó a 954 personas: el alcance no se está volviendo seguidores. Hipótesis: falta una razón para
+  seguir (serie con día fijo). → Anunciar en el texto y en el cierre «cada martes y viernes, un caso real».
+
 - 2026-11-23 · Semana 16-22 nov (Metricool, por publicación): el robot 06 (SL852-2026, accidente antes de entrar a la obra)
   es el reel más visto de la historia de la cuenta en Instagram: 1.040 vistas y 954 personas (la cuenta tiene 55 seguidores).
   Los 2 robots de la semana promediaron 598 vistas en Instagram y 554 en TikTok; los 5 reels de humor, 23 y 105.
