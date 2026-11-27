@@ -16,7 +16,7 @@
 | 07 | Vuelve el período de prueba de los aprendices | Consejo de Estado (Decreto 223 de 2026) | En `animados/listos/` |
 | 08 | La casación que terminó en una investigación al abogado | AP5793-2026 | En producción: código en la rama `videos/short-08-la-casacion-que-termino-en-disciplina` (20-nov); falta correr `producir-video.sh 08` en el PC |
 | 09 | La ley más dura no va hacia atrás | Corte Suprema, casación (inhabilidad 48 → 4 meses) | En producción: código en la rama `videos/short-09-la-ley-mas-dura-no-va-hacia-atras` (20-nov); falta correr `producir-video.sh 09` en el PC |
-| 10 | El cuidado también es del papá | T-363 de 2026 | Guion aprobado (18-nov); a producción la próxima semana (tope de 2 videos por semana) |
+| 10 | El cuidado también es del papá | T-363 de 2026 | En producción: código en la rama `videos/short-10-el-cuidado-tambien-es-del-papa` (27-nov); falta correr `producir-video.sh 10` en el PC |
 
 JUSTIBOT AL DÍA (`aldia/`): AD02 juez mexicano y extradición · AD03 emergencia por el terremoto (C-366 de 2026) ·
 AD04 medida más dura que la pedida. Guiones por aprobar (17-nov).
